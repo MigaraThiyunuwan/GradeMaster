@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abhaya_libre</item>
+        <item>@font/alice</item>
+        <item>@font/alike_angular</item>
+        <item>@font/average</item>
+        <item>@font/cardo</item>
+        <item>@font/faustina_medium</item>
+        <item>@font/karma_light</item>
+        <item>@font/tienne</item>
+    </array>
+</resources>
